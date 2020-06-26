@@ -43,6 +43,7 @@ This alternative will get the full size and thumbnails of a post as their own se
 to make it easier to know which stuff belongs to which post.
 
 6: Extract Words as Images
+
 This alternative is a bit special. Select the posts you want to extract words from.
 Then choose this alternative. You will now be guided to select (one at a time) each passage (or word etc) of
 text from the selected images. You can select from the same post several times (you will need to press 0 to move on to the next post)
@@ -52,6 +53,7 @@ Once you have selected the sizes you want, they will be created as words_XXXXXXX
 and the middle XXXXXXXX is the post number. If you want all words to be the same size. Check "Make all selected words the same size" and set the size you want for all of them.
 
 7: Create Demotivational/motivational Poster
+
 This is pretty straight forward.
 Select the primary post first that you want to be the subject of sarcasm (or praise).
 Then select up to 6 more posts that you want to be reactions to the post. You can also choose to not select
@@ -67,6 +69,7 @@ Now, you select the border style you want for the inside content.
 It will create a poster for you. This works not unlike a meme template creator in a sense.
 
 8: Center Capture
+
 This will put the first post you selected in the middle, and it will be bigger than all the others.
 
 Select the first post that will be the centerpiece.
@@ -74,6 +77,7 @@ Then select up to 50 replies (The more replies you have selected the smaller the
 Then select if you want it to be symmetrical or if you want it to have random noise (random places for the reactions).
 
 9: Cap all selected, do 5 and 6, <br>and import all into GIMP (5000x5000 px project) as layers
+
 This will capture all the selected posts, then it will do the operations in 5 and 6. And finally.
 Gimp will be opened and all post images, their expanded images, and the words selected will be imported
 into a Gimp project, where every image will be imported as layers, ready for you to rotate or do whatever with.
