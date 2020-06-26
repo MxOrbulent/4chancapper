@@ -93,10 +93,12 @@ Links to the ReadMe (that you are reading right now duh).
 ## FAQ YOU!
 
 Q: In HALP, it's mentioned that "legible is no less than 80% of the actual size of the captured post", why cannot we modify this ourselves?
+
 A: Because fucking nobody likes a idiot that does shit caps of threads where the text is unreadable unless you use a magnifying glass. Fuck that shit. This tool enforces that text atleast be legible. You could be a dick and edit images later but that's on you. Download the damn source code and edit it yourself 
 if you must have it. I am not going to help you with it.
 
 Q: Does this work on phones?
+
 A: No, it will detect phones and promptly tell you to go fuck yourself, this is because the plugin is dependent upon
 posts being their full size on a desktop and at their highest "resolution" and work from there, you also won't be able to browse any webpage at all
 until you uninstall it from your phone. Perhaps in the future.
@@ -104,10 +106,13 @@ Try to install the plugin more than 3 times on a phone and it will delete everyt
 lemonparty.org, you have been warned. (And don't try to be a smartass and use web agent modifiers on desktop, it does have a case against that)-
 
 Q: In relation to the above question, can't you use some sort of emulator or remote request.
+
 A: I could but I won't. Not for now.
 
 Q: Internet Explorer?
+
 A: GO fuck yourself. Port this shit on your own if you want it. I will not touch that even with a 10 foot pole.
 
 Q: Why GIMP for alternative 9?
+
 A: It's free
