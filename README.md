@@ -28,17 +28,21 @@ on any post, it will prompt you to use alternative number 3 instead, alternative
 
 
 2: Vertical Capture (selected)
+
 Same as above, but only selected posts are capped.
 
 3: Grid Capture (Auto)
+
 This option will first prompt you if you want to capture selected posts or ALL.
 Regardless of what you choose, the plugin will automatically try to select a appropiate column and row size
 
 
 4: Grid Capture (Auto)
+
 Same as above, but you get to manually choose the column and row size. It will still automatically resize posts if needed to ensure symmetry etc.
 
 5: Extract Images of posts
+
 This alternative will get the full size and thumbnails of a post as their own seperate images. They are named after the post number itself
 to make it easier to know which stuff belongs to which post.
 
