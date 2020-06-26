@@ -9,12 +9,15 @@ just to cap a thread.
 
 Every option will ask you first (NO EXCEPTIONS) if you want it to be 4chan compatible or not. (under Settings, you can
 check "Do not ask me, make every operation 4chan compatible)" and it won't ask you every time).
-4chan compatible is 4 MB, and no larger than 5000x5000
-If you choose not to, then there really is no limit. The tool will make sure to cap every post etc at full size.
+4chan compatible is 4 MB, and no larger than 5000x5000.
+
+If you choose not to make it 4chan compatible, then there really is no limit. The tool will make sure to cap every post etc at full size.
 For legibilitys sake, only the OP's first post has no horizontal limit.
 Everyone elses posts will be squashed down to be under 600 px so they are symmetrical with eachother.
 One word replies will have their background extended to 600 px for parity.
 In settings, you can have any post containing less than 10 words be minimized, as if you had used alternative 6.
+
+This tool always works from the top to the bottom when it comes how to order selected posts. Always!
 
 ## HALP WHAT DO THE VARIOUS THINGS DO?
 
@@ -42,9 +45,42 @@ to make it easier to know which stuff belongs to which post.
 6: Extract Words as Images
 This alternative is a bit special. Select the posts you want to extract words from.
 Then choose this alternative. You will now be guided to select (one at a time) each passage (or word etc) of
-text from the selected images. You can select from the same post several times (you will need to press
+text from the selected images. You can select from the same post several times (you will need to press 0 to move on to the next post)
 Once that is done, you will be prompted for how large you want the words to be. It is inspired by this image
-https://imgur.com/Y2ZyGcT where they copied "EXPLAIN SPURDO" and "THREAT MATRIX".
+https://imgur.com/Y2ZyGcT where they copied "EXPLAIN SPURDO" and "THREAT MATRIX" and made them larger for comedic effect.
+Once you have selected the sizes you want, they will be created as words_XXXXXXXX_X.jpg where the last X denotes the word in order you selected from the same post
+and the middle XXXXXXXX is the post number. If you want all words to be the same size. Check "Make all selected words the same size" and set the size you want for all of them.
+
+7: Create Demotivational/motivational Poster
+This is pretty straight forward.
+Select the primary post first that you want to be the subject of sarcasm (or praise).
+Then select up to 6 more posts that you want to be reactions to the post. You can also choose to not select
+any more.
+
+If you only select 1 (the primary one), you can choose if you want it to be a expanded image or not. Or only the image.
+
+Then, fill in the Catchphrase.
+Select the color you want for the Catchphrase.
+Then, you can fill in up to 10 lines of text that will appear below it.
+Now, you select the border style you want for the inside content.
+
+It will create a poster for you. This works not unlike a meme template creator in a sense.
+
+8: Center Capture
+This will put the first post you selected in the middle, and it will be bigger than all the others.
+
+Select the first post that will be the centerpiece.
+Then select up to 50 replies (The more replies you have selected the smaller the reactions will be).
+Then select if you want it to be symmetrical or if you want it to have random noise (random places for the reactions).
+
+9: Cap all selected, do 5 and 6, <br>and import all into GIMP (5000x5000 px project) as layers
+This will capture all the selected posts, then it will do the operations in 5 and 6. And finally.
+Gimp will be opened and all post images, their expanded images, and the words selected will be imported
+into a Gimp project, where every image will be imported as layers, ready for you to rotate or do whatever with.
+
+10: HALP PLS!
+Links to the ReadMe (that you are reading right now duh).
+
 
 ## FAQ YOU!
 
